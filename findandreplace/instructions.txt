@@ -35,3 +35,5 @@ w->v
 x->w
 y->x
 z->y
+
+if you are linux user change .bat to .sh
