@@ -1,0 +1,1 @@
+python getresult.py
