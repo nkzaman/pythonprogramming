@@ -1,0 +1,3 @@
+paste anyfile.nmp, anyfile1.nmp in test folder
+click on run.bat
+it will convert all the .nmp files from tab to comma delimited

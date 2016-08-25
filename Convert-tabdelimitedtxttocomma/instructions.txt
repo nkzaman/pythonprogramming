@@ -1,0 +1,3 @@
+paste anyfile.txt in test folder
+click on run.bat
+it will convert all the tab delimited files to comma delimited
